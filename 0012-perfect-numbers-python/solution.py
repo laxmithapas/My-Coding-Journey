@@ -1,7 +1,7 @@
 N = int(input("Enter the upper limit"))
 
 if N < 1 :
-    Print("Invalid!")
+    print("Invalid!")
 
 else:
     print(f"The perefect number between 1 and {N}:")
