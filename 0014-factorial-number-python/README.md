@@ -19,4 +19,3 @@ Factorial of 5 is 120
 
 **Note:**  
 Factorial of 0 is always 1.
-
